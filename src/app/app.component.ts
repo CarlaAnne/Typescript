@@ -102,4 +102,5 @@ console.table(A002);
 //----MODIFICAR CANTIDADES-----
 function MODIFICAR(x:any,y:any){
   x.stock.push(y);
+}
 //-----MOVER DE ALMACEN 1 A 2----
